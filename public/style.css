@@ -8,9 +8,9 @@ h1
     color: #364e96;/*文字色*/
     border: solid 3px #364e96;/*線色*/
     padding: 0.5em;/*文字周りの余白*/
-    padding-left: 0px;
-    padding-right: 2px;
     border-radius: 0.5em;/*角丸*/
+    border-left: 0px;
+    border-right: 0px;
 }
 input,
 button
